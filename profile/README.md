@@ -2,7 +2,7 @@
 
 ### Build. Learn. Share. Collaborate.
 
-Welcome to **CodeVault-Community**, an open-source community focused on building useful software, sharing knowledge, and helping developers grow together.
+Welcome to **CodeVault-Community**, an open-source community focused on building useful software, sharing knowledge, and helping developers grow together. Our featured project is [CodeVault](https://github.com/CodeVault-Community/CodeVault), a local-first library for saving, organizing, and reusing code snippets.
 
 ## 🎯 Our Mission
 
@@ -28,8 +28,10 @@ We welcome developers, learners, designers, and technical writers.
 1. Explore our repositories.
 2. Check open issues and project discussions.
 3. Read the project's contribution guidelines.
-4. Submit a pull request.
-5. Share feedback and help improve the community.
+4. Read our [contributing guidelines](https://github.com/CodeVault-Community/.github/blob/main/CONTRIBUTING.md).
+5. Submit a pull request and share feedback.
+
+Please also review our [Code of Conduct](https://github.com/CodeVault-Community/.github/blob/main/CODE_OF_CONDUCT.md) and [security policy](https://github.com/CodeVault-Community/.github/blob/main/SECURITY.md).
 
 Every meaningful contribution matters.
 
