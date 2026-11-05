@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a reproducible problem in a CodeVault-Community project.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please search existing issues first. Never include passwords, tokens, private data, or other secrets."
+  - type: input
+    id: project
+    attributes:
+      label: Project or repository
+      description: Which organization project is affected?
+      placeholder: "Repository name"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Include relevant versions and operating system.
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Add safe screenshots or logs, with sensitive information removed.
+    validations:
+      required: false
