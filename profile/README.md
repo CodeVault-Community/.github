@@ -1,3 +1,5 @@
+![CodeVault-Community banner](../file_00000000f9c48246ab0597b18308857e.png)
+
 # CodeVault-Community
 
 ### Build. Learn. Share. Collaborate.
